@@ -12,7 +12,7 @@ JavaScript is one of the most popular programming languages, and it has become i
 
 ## Environment Setup
 
-This project is designed to be used with Visual Studio Code, a popular code editor. You should also install the following [Visual Studio Code extensions and Change the settings](https://github.com/GunaPalanivel/vs-code-settings) for a better coding experience.
+This project is designed to be used with Visual Studio Code, a popular code editor. You should also install the following [Visual Studio Code extensions and Change the settings](https://github.com/gp5901/Modern-JavaScript-Fundamentals/blob/main/01-Introduction/Environment%20Setup/VisualStudioCodeSetup.md) for a better coding experience.
 
 ## Variables and Data Types
 
