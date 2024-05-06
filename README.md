@@ -4,11 +4,11 @@ JavaScript is one of the most popular programming languages, and it has become i
 
 ## Table of Contents
 
-1. Environment Setup
-2. Variables and Data Types
-3. Operators and Equality
-4. Logic and Control Flow
-5. Functions
+1. [Environment Setup](https://github.com/gp5901/Modern-JavaScript-Fundamentals/tree/main/01-Introduction)
+2. [Variables and Data Types](https://github.com/gp5901/Modern-JavaScript-Fundamentals/tree/main/02-VariablesAndDataTypes)
+3. [Operators and Equality](https://github.com/gp5901/Modern-JavaScript-Fundamentals/tree/main/03-OperatorsAndEquality)
+4. [Logic and Control Flow](https://github.com/gp5901/Modern-JavaScript-Fundamentals/tree/main/04-LogicAndControlFlow)
+5. [Functions](https://github.com/gp5901/Modern-JavaScript-Fundamentals/tree/main/05-Functions)
 
 ## Environment Setup
 
@@ -18,15 +18,15 @@ This project is designed to be used with Visual Studio Code, a popular code edit
 
 In this section, you will learn about:
 
-- [Variables](https://github.com/gp5901/Modern-JavaScript-Fundamentals/tree/main/02-VariablesAndDataTypes/01-Variables)
-- [Data Types (Strings, Numbers, Booleans, Null, Undefined, Objects)](https://github.com/gp5901/Modern-JavaScript-Fundamentals/tree/main/02-VariablesAndDataTypes/02-DataTypes)
-- [Statically vs. Dynamically Typed Languages](https://github.com/gp5901/Modern-JavaScript-Fundamentals/blob/main/02-VariablesAndDataTypes/02-DataTypes/DataTypes.md)
+- Variables
+- Data Types (Strings, Numbers, Booleans, Null, Undefined, Objects)
+- Statically vs. Dynamically Typed Languages
 
 ## Operators and Equality
 
 This section covers:
 
-- [Operators and Equality](https://github.com/gp5901/Modern-JavaScript-Fundamentals/tree/main/03-OperatorsAndEquality)
+- Operators and Equality
 - Arithmetic Operators
 - Comparison Operators and Equality
 - Strict vs. Loose Equality
@@ -37,7 +37,7 @@ This section covers:
 
 In this section, you will explore:
 
-- [Logic and Control Flow](https://github.com/gp5901/Modern-JavaScript-Fundamentals/tree/main/04-LogicAndControlFlow)
+- Logic and Control Flow
 - If Statements
 - Truthy and Falsy Values
 - Logical Operators (Part 2)
@@ -49,7 +49,7 @@ In this section, you will explore:
 
 This section focuses on:
 
-- [Functions](https://github.com/gp5901/Modern-JavaScript-Fundamentals/tree/main/05-Functions)
+- Functions
 - Declaring and Invoking Functions
 - Function Return
 - Arrow Functions
