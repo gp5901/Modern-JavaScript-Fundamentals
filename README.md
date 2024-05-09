@@ -12,7 +12,7 @@ JavaScript is one of the most popular programming languages, and it has become i
 
 ## Environment Setup
 
-This project is designed to be used with Visual Studio Code, a popular code editor. You should also install the following [Visual Studio Code extensions and Change the settings](https://github.com/gp5901/Modern-JavaScript-Fundamentals/blob/main/01-Introduction/Environment%20Setup/VisualStudioCodeSetup.md) for a better coding experience.
+This project is designed to be used with Visual Studio Code, a popular code editor. You should also install the following [Visual Studio Code extensions and Change the settings](https://github.com/GunaPalanivel/vs-code-settings) for a better coding experience.
 
 ## Variables and Data Types
 
@@ -26,7 +26,6 @@ In this section, you will learn about:
 
 This section covers:
 
-- Operators and Equality
 - Arithmetic Operators
 - Comparison Operators and Equality
 - Strict vs. Loose Equality
@@ -37,7 +36,6 @@ This section covers:
 
 In this section, you will explore:
 
-- Logic and Control Flow
 - If Statements
 - Truthy and Falsy Values
 - Logical Operators (Part 2)
@@ -49,7 +47,6 @@ In this section, you will explore:
 
 This section focuses on:
 
-- Functions
 - Declaring and Invoking Functions
 - Function Return
 - Arrow Functions
